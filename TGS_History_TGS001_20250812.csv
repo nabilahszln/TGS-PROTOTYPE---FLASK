@@ -1,0 +1,5 @@
+Staff ID,Start Time,Stop Time,Equipment,Failure Scenario,Status,Guideline for Chief Controller,Local Response,Duration (min)
+TGS001,12/8/2025 8:44,12/8/2025 8:49,Failure of Train Wake Up,Train sleep at mainline more than 2 times and able to wake up,Failed,"â€¢ Train Entering service: N/A
+â€¢ Train already in service:  Wake remotely or manual intervention Exit during Fleet Reduction",Maintenance staff to check and verify the situation. ,5.2
+TGS001,12/8/2025 8:44,12/8/2025 8:49,Foreign object on track,Foreign  object on  track (depending  on  the  type/size  of foreign object),Failed,"â€¢ Train Entering service: N/A
+â€¢Train already in service:TO verify the obstruction on the track.","TO verify the obstruction on the track. If major failure occurred, required maintenance team to attend. De-energized certain area if required",5.2
