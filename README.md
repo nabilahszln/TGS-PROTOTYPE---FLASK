@@ -8,46 +8,37 @@ This project focuses on developing a digital Troubleshooting Guide System (TGS) 
 
 The current railway troubleshooting process relies heavily on manual documents and experienced personnel. This often causes:
 
-slow response times
-inconsistent fault handling
-delays during critical incidents
-reduced operational efficiency
+- slow response times
+- inconsistent fault handling
+- delays during critical incidents
+- reduced operational efficiency
+  
 A digital troubleshooting system is needed to support faster and more standardised fault resolution.
 
 🎯 Project Objectives:
 
-To evelop an in-house Troubleshooting Guide System (TGS)
-To support fault identification and resolve issues within five minutes
-Create a user-friendly and interactive GUI for maintenance staff
+- To evelop an in-house Troubleshooting Guide System (TGS)
+- To support fault identification and resolve issues within five minutes
+- To create a user-friendly and interactive GUI for maintenance staff
+  
 🛠️ Technologies Used:
 
-Python
-Streamlit
-CSS
-Excel / CSV
-⚙️ Methodology
-
-Data Preparation (ETL Process)
-The Minimum Operating Requirement (MOR) data was originally provided in PDF format and converted into CSV format for processing.
-
-The data cleaning process included:
-
-handling missing values
-converting text to lowercase
-removing special characters
-trimming unnecessary spaces
-extracting relevant text descriptions
-The cleaned data was then stored in a new CSV file for further analysis and model development.
+- Python
+- Streamlit
+- CSS
+- Excel / CSV
 
 Agile Development
+
 The system was developed using the Agile approach:
 
-Plan
-Design
-Develop
-Test
-Deploy
-Review
+- Plan
+- Design
+- Develop
+- Test
+- Deploy
+- Review
+
 Continuous feedback from engineers and maintenance staff was used to improve the prototype.
 
 🖥️ System Features:
